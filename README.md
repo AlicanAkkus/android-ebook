@@ -1,3 +1,5 @@
-# My Awesome Book
+# Android E-Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Bloğumda yazmış olduğum, yaklaşık 25 Android yazısının derlenip toparlanmış hali olacaktır. Blog'da ve Git'de yazılar ile beraber e-book erişilebilir olacaktır.
+
+
